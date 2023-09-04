@@ -1,3 +1,7 @@
+NOTE (2023-09-04) - Due to the size of the audio file, it is too large to include to this repository (as I mainly upload through web browser, and unfamilliar with  committing changes through command lines). Apologies in advance for any issues this may cause.
+
+Copyright (c) 2020-2023 Gabriel Martell <gabemartell@cmail.carleton.ca>, Nicholas Faubert <nicholasfaubert@cmail.carleton.ca>
+ 
 // Project COMP 2501 //
 Name: Gabe Martell, Nicholas Faubert
 Student #: 10191857 & 101192850
@@ -98,3 +102,4 @@ License(s):
 CC-BY 3.0
 
 --All other textures are made by Gabe Martell.
+
