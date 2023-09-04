@@ -1,5 +1,6 @@
 NOTE (2023-09-04) - 
 Due to the size of the audio file, it is too large to include to this repository (as I mainly upload through web browser, and unfamilliar with  committing changes through command lines). Apologies in advance for any issues this may cause.
+This repository comes with a "code" folder - for simple organization (which was overlooked before... oops). When running this application, please collapse the code folder. Thank you.
 
 Copyright (c) 2020-2023 Gabriel Martell <gabemartell@cmail.carleton.ca>, Nicholas Faubert <nicholasfaubert@cmail.carleton.ca>
  
