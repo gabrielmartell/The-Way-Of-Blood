@@ -3,9 +3,9 @@ Due to the size of the audio file, it is too large to include to this repository
 This repository comes with a "code" folder - for simple organization (which was overlooked before... oops). When running this application, please collapse the code folder. Thank you.
  
 // Project COMP 2501 //
-Name: Gabe Martell, Nicholas Faubert
-Student #: 10191857 & 101192850
-OS: Windows
+- Name: Gabe Martell, Nicholas Faubert
+- Student #: 10191857 & 101192850
+- OS: Windows
 
 !! General Knowledge
 Most of our comments are marked by //!/ or are headers. 
